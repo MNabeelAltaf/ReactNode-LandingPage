@@ -1,0 +1,10 @@
+export { default as Header } from './sub-components/Header';
+export { default as Logo } from './sub-components/Logo';
+export { default as HeroSection } from './sub-components/HeroSection';
+export { default as ClientsSection } from './sub-components/ClientsSection';
+export { default as ExperienceSection } from './sub-components/ExperienceSection';
+export { default as MainSection } from './sub-components/MainSection';
+export { default as StaffSection } from './sub-components/StaffSection';
+export { default as StatsSection } from './sub-components/StatsSection';
+export { default as WhyChooseUs } from './sub-components/WhyChooseUs';
+export { default as Footer } from './sub-components/Footer';
