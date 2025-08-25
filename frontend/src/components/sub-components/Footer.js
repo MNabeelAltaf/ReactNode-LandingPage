@@ -1,9 +1,9 @@
 import { FaFacebookF, FaInstagram, FaBehance } from 'react-icons/fa';
 import { FaXTwitter } from 'react-icons/fa6';
-import { IoPaperPlaneOutline } from 'react-icons/io5'; // A better matching icon
-import Logo2 from './Logo2'; // Assuming you have your Logo component
+import { IoPaperPlaneOutline } from 'react-icons/io5'; 
+import Logo2 from './Logo2';
 
-// A reusable component for the social icon links
+
 const SocialIcon = ({ icon: Icon }) => (
     <a href="#" className="w-10 h-10 bg-[#3e3e3e] rounded-md flex items-center justify-center text-white hover:bg-[#e5c466] hover:text-black transition-colors duration-300">
         <Icon className="w-5 h-5" />
