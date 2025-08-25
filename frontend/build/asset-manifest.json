@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.650a03c9.js",
+    "static/js/453.670e15c7.chunk.js": "/static/js/453.670e15c7.chunk.js",
+    "static/media/chooseus-section-img-2.jpg": "/static/media/chooseus-section-img-2.93be258040e940f81e20.jpg",
+    "static/media/main-section-img-2.jpg": "/static/media/main-section-img-2.c284b2123256145abc2e.jpg",
+    "static/media/main-section-img.jpg": "/static/media/main-section-img.482ee98b3a1bf2e21c15.jpg",
+    "static/media/chooseus-section-img-1.jpg": "/static/media/chooseus-section-img-1.e99b372cc3effbdc24a2.jpg",
+    "static/media/appointment-section-img.jpg": "/static/media/appointment-section-img.a9992834a10dc8226b48.jpg",
+    "static/media/errorImg.png": "/static/media/errorImg.27f787b2050146c21b44.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.650a03c9.js.map": "/static/js/main.650a03c9.js.map",
+    "453.670e15c7.chunk.js.map": "/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.650a03c9.js"
+  ]
+}
